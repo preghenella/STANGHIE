@@ -1,0 +1,9 @@
+/control/verbose 0
+/control/saveHistory
+/run/verbose 0
+/run/printProgress 1000
+/tracking/verbose 0
+/random/setSeeds 123456789 123456789
+
+/control/execute init.mac
+/control/execute run.mac

@@ -1,0 +1,7 @@
+/io/prefix {Particle}
+/gun/particle {Particle}
+/gun/position 0 0 0 cm
+/gun/direction 1 0 0
+
+### momentum loop
+/control/foreach momentum.loop Momentum {Momenta}

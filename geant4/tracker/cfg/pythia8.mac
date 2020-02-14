@@ -1,0 +1,7 @@
+/generator/select pythia8
+
+/pythia8/config pythia8_inel.cfg
+/pythia8/init
+
+/io/prefix pythia8
+/run/beamOn 1000
